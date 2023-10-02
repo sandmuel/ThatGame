@@ -1,6 +1,6 @@
-// Engine components
+// Crates
 use bevy::prelude::*;
-
+use thatgame;
 
 fn main() {
     let mut app = App::new();
